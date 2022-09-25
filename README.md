@@ -1,2 +1,5 @@
 # O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados 
  conceitos, definições e insights que julgo relevantes
+O SQL é uma linguagem de programação para lidar com banco de dados relacional. A programação SQL pode ser usada para analisar ou executar tarefas em tabelas, principalmente através dos seguintes comandos: inserir (‘insert’), pesquisar (‘search’), atualizar (‘update’) e excluir (‘delete’).
+O NoSQL é um banco de dados não relacional de alto desempenho, onde geralmente não é utilizado o SQL como linguagem de consulta. O NoSQL foi criado para ter uma performance melhor e uma escalabilidade mais horizontal para suprir necessidades onde os bancos relacionais não são eficazes.
+Em resumo, o conceito de modelo relacional (SQL) se baseia no fato de que todos os dados sejam guardados em tabelas. Ao modelo não-relacional (NoSQL) não se aplica o conceito de schema: uma chave de valor é que é utilizada para recuperar valores, conjunto de colunas ou documentos.O NoSQL não serve como uma "substituição" do SQL, mas sim um complemento, pois ele não segue um padrão rígido e consegue suprir as necessidades dos bancos relacionais. 
